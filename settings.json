@@ -1,0 +1,7 @@
+{
+  "theme": "dark",
+  "allow": [
+    "Write(**)",
+    "Edit(**)"
+  ]
+}

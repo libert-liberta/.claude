@@ -1,0 +1,4 @@
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+
+# Language Preference
+常に日本語で返答してください。すべての応答、説明、コメントは日本語で行ってください。

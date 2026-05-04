@@ -1,0 +1,11 @@
+backups/
+cache/
+file-history/
+plans/
+plugins/
+projects/
+session-env/
+sessions/
+shell-snapshots/
+
+history.jsonl
