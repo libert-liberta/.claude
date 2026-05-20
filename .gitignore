@@ -1,12 +1,3 @@
-backups/
-cache/
-ide/
-file-history/
-plans/
-plugins/
-projects/
-session-env/
-sessions/
-shell-snapshots/
-
-history.jsonl
+*
+!setting.json
+!CLAUDE.md
